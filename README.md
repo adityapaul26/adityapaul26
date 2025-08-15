@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Aditya Paul</h1>
-<h3 align="left">I'm currently pursuing my B.Tech in Information Technology from Techno Main Saltlake.I’m a curious and driven learner who loves building, exploring, and mastering new skills.</h3>
+<h5 align="left">I'm currently pursuing my B.Tech in Information Technology from Techno Main Saltlake.I’m a curious and driven learner who loves building, exploring, and mastering new skills.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapaul26&label=Profile%20views&color=0e75b6&style=flat" alt="adityapaul26" /> </p>
 
