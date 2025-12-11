@@ -25,7 +25,7 @@
 # 🛠️ Tools & Platforms:
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,vim,neovim,discord,idea,obsidian,vercel,vscode" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,vim,neovim,discord,idea,obsidian,vercel,vscode" />
   </a>
 </p>
 
