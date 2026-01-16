@@ -2,10 +2,10 @@
 
 # 👋 Hi, I'm Aditya 
 
-👋 I'm a B.Tech IT student passionate about software development and problem-solving.  
-💻 I enjoy working with Python, C++, JavaScript, and building full-stack web applications.  
-🚀 Currently exploring Flask, Django, and open-source projects while sharpening my DSA skills.  
-🌱 Always curious to learn, experiment, and create impactful tech solutions.  
+Web developer obsessed with backend, infra, and clean system design.
+I explore Linux, CP, and low-level performance topics for fun.
+Currently shipping Algoscope — an algorithm learning playground.
+Iterating, improving, building — on repeat. 
 
 
 
@@ -18,7 +18,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,bootstrap,cpp,react,vite,c,css,html,d3,java,js,latex" />
     <br>
-    <img src="https://skillicons.dev/icons?i=md,nodejs,mongodb,npm,yarn,tailwind,postman,powershell,py,bash,express,lua" />
+    <img src="https://skillicons.dev/icons?i=md,nodejs,mongodb,npm,yarn,tailwind,postman,powershell,py,bash,express" />
   </a>
 </p>
 
