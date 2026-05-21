@@ -29,18 +29,51 @@ Iterating, improving, building — on repeat.
   </a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adityapaul26&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=adityapaul26&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityapaul26&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adityapaul26&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 📈 GitHub Analytics
 
----
-[![](https://visitcount.itsvg.in/api?id=adityapaul26&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3>📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityapaul26&theme=react" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityapaul26&theme=react" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityapaul26&theme=react" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityapaul26&theme=react" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityapaul26&theme=react&utcOffset=8" alt="Productive Time" />
+</p>
+
+<p align="center">
+   <img height="180em" src="https://github-readmeapp.vercel.app/api?username=adityapaul26&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adityapaul26&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adityapaul26&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
+</p>
+
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=adityapaul26&theme=dracula&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=A78BFA&hide_border=true)](https://github.com/dhairyagothi)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+
+</div>
+
+
+## 🧠 Coding Platforms
+
+<div align="center">
+  <a href="https://leetcode.com/u/Adityapaul2609/">
+    <img src="https://leetcard.jacoblin.cool/Adityapaul2609?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode stats" />
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 
 
