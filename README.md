@@ -61,7 +61,7 @@ Web developer obsessed with backend engineering, cloud infrastructure, and highl
 ### 🧰 OS Environments & Environments
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,vim,neovim,vscode,idea,obsidian" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,vim,neovim,androidstudio,vscode,idea,obsidian" alt="Tools" />
   </a>
 </p>
 
