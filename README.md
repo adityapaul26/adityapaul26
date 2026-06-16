@@ -1,23 +1,19 @@
 <div align="center">
   <img src="./769200811418203986.jpg" width="80%">
 </div>
-
-# 👋 Hi, I'm Aditya Paul
+<samp>
+<strong><H2>Hi, I'm Aditya Paul</H2></strong>
 
 Web developer obsessed with backend engineering, cloud infrastructure, and highly optimized system architecture. I spend my time exploring Linux internals, concurrent programming systems, and low-level execution performance for fun.
 
-- 🚀 **Currently Shipping:** [AlgoScope](https://github.com/algoscope-hq/algoscope) — A high-velocity algorithm learning playground and playground sandbox.
-- 🛠️ **Scale Metric:** Orchestrating an active ecosystem scaling through 80+ open-source contributors and hundreds of concurrent forks.
-- ⚡ **Philosophy:** Iterating, improving, automated workflow testing — on repeat.
+-  **Currently Shipping:** [AlgoScope](https://github.com/algoscope-hq/algoscope) — A high-velocity algorithm learning playground and playground sandbox.
+-  **Scale Metric:** Orchestrating an active ecosystem scaling through 80+ open-source contributors and hundreds of concurrent forks.
+-  **Philosophy:** Iterating, improving, automated workflow testing — on repeat.
 
 <div align="center">
-  <a href="https://linkedin.com/in/aditya-paul-b8881a31b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:adityapaul2603@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<a href="https://portfolio-adityapaul26.vercel.app/"><strong>website</strong></a>  | <a href="https://inkspire-gt6m.onrender.com/"><strong>blogs</strong></a>  | <a href="https://linkedin.com/in/aditya-paul-b8881a31b"><strong>linkedin</strong></a>  | <a href="mailto:adityapaul2603@gmail.com"><strong>email</strong></a>
 </div>
+</samp>
 
 ---
 
@@ -76,7 +72,6 @@ Web developer obsessed with backend engineering, cloud infrastructure, and highl
 ## 📊 Developer Ecosystem Analytics
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
   
   <h3>📈 Metrics Overview</h3>
   <br>
@@ -103,8 +98,6 @@ Web developer obsessed with backend engineering, cloud infrastructure, and highl
   <a href="https://github.com/adityapaul26">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityapaul26&theme=dracula&bg_color=0d0d2b&color=A78BFA&line=7C3AED&point=A78BFA&hide_border=true" width="100%" alt="Activity Matrix" />
   </a>
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 ---
@@ -117,5 +110,4 @@ Web developer obsessed with backend engineering, cloud infrastructure, and highl
   </a>
 </div> 
   <br><br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
