@@ -93,12 +93,11 @@ Web developer obsessed with backend engineering, cloud infrastructure, and highl
      <img height="180em" src="https://github-readmeapp.vercel.app/api?username=adityapaul26&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
   </p>
 
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=adityapaul26&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-  </p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adityapaul26&theme=tokyonight-duo&border_radius=25" alt="GitHub Streak" /></a>
+
 
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=adityapaul26&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=adityapaul26&row=2&column=9&theme=catppuccin" width="100%" alt="Recognition Board" />
   </p>
 
   <a href="https://github.com/adityapaul26">
