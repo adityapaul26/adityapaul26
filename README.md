@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./769200811418203986.jpg" width="80%">
+  <img src="./769200811418203986.jpg" width="100%">
 </div>
 <samp>
 <strong><H2>Hi, I'm Aditya Paul</H2></strong>
