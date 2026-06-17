@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="./769200811418203986.jpg" width="80%">
+  <img src="./assets/8b4c29238da02d093f4acca2f88474ea.jpg" width="80%">
 </div>
 <samp>
 <strong><H2>Hi, I'm Aditya Paul</H2></strong>
 
 Web developer obsessed with backend engineering, cloud infrastructure, and highly optimized system architecture. I spend my time exploring Linux internals, concurrent programming systems, and low-level execution performance for fun.
 
--  **Currently Shipping:** [AlgoScope](https://github.com/algoscope-hq/algoscope) — A high-velocity algorithm learning playground and playground sandbox.
--  **Scale Metric:** Orchestrating an active ecosystem scaling through 80+ open-source contributors and hundreds of concurrent forks.
--  **Philosophy:** Iterating, improving, automated workflow testing — on repeat.
+- **Currently Shipping:** [AlgoScope](https://github.com/algoscope-hq/algoscope) — A high-velocity algorithm learning playground and playground sandbox.
+- **Scale Metric:** Orchestrating an active ecosystem scaling through 80+ open-source contributors and hundreds of concurrent forks.
+- **Philosophy:** Iterating, improving, automated workflow testing — on repeat.
 
 <div align="center">
 <a href="https://portfolio-adityapaul26.vercel.app/"><strong>website</strong></a>  | <a href="https://inkspire-gt6m.onrender.com/"><strong>blogs</strong></a>  | <a href="https://linkedin.com/in/aditya-paul-b8881a31b"><strong>linkedin</strong></a>  | <a href="mailto:adityapaul2603@gmail.com"><strong>email</strong></a>
@@ -89,7 +89,6 @@ Web developer obsessed with backend engineering, cloud infrastructure, and highl
   </p>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adityapaul26&theme=tokyonight-duo&border_radius=25" alt="GitHub Streak" /></a>
-
 
   <p align="center">
     <img src="https://github-trophies.vercel.app/?username=adityapaul26&row=2&column=9&theme=catppuccin" width="100%" alt="Recognition Board" />
