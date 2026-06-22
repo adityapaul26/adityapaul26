@@ -11,7 +11,7 @@ Web developer obsessed with backend engineering, cloud infrastructure, and highl
 - **Philosophy:** Iterating, improving, automated workflow testing — on repeat.
 
 <div align="center">
-<a href="https://portfolio-adityapaul26.vercel.app/"><strong>website</strong></a>  | <a href="https://inkspire-gt6m.onrender.com/"><strong>blogs</strong></a>  | <a href="https://linkedin.com/in/aditya-paul-b8881a31b"><strong>linkedin</strong></a>  | <a href="mailto:adityapaul2603@gmail.com"><strong>email</strong></a>
+<a href="https://adityapaul26.vercel.app/"><strong>website</strong></a>  | <a href="https://inkspire-gt6m.onrender.com/"><strong>blogs</strong></a>  | <a href="https://linkedin.com/in/aditya-paul-b8881a31b"><strong>linkedin</strong></a>  | <a href="mailto:adityapaul2603@gmail.com"><strong>email</strong></a>
 </div>
 </samp>
 
