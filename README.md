@@ -84,10 +84,6 @@ Web developer obsessed with backend engineering, cloud infrastructure, and highl
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityapaul26&theme=react&utcOffset=8" alt="Productive Time" />
   </p>
 
-  <p align="center">
-     <img height="180em" src="https://github-readmeapp.vercel.app/api?username=adityapaul26&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  </p>
-
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adityapaul26&theme=tokyonight-duo&border_radius=25" alt="GitHub Streak" /></a>
 
   <p align="center">
